@@ -3,8 +3,6 @@ package com.qa.calculator;
 import org.junit.Assert;
 import org.junit.Test;
 
-import com.qa.calculator.Adder;
-
 public class AdderTest {
 
 	private Adder adder;
