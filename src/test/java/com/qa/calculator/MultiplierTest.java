@@ -3,7 +3,7 @@ package com.qa.calculator;
 import org.junit.Assert;
 import org.junit.Test;
 
-import com.qa.app.Multiplier;
+import com.qa.calculator.Multiplier;
 
 public class MultiplierTest {
 	

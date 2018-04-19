@@ -1,4 +1,4 @@
-package com.qa.app;
+package com.qa.calculator;
 
 public class Subtractor {
 
