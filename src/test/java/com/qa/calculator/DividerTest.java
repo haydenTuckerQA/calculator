@@ -8,7 +8,7 @@ public class DividerTest {
 	private Divider divider;
 
 	@Test
-	public void subtractTest() {
+	public void divideTest() {
 		divider = new Divider();
 		int expectedValue = 2;
 		int actualValue = divider.divide(4, 2);
